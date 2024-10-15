@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Paul",
+    "Surname": "Walker",
+    "Rating": 4
+  },
+  {
+    "Name": "Daisy",
+    "Surname": "Williams",
+    "Rating": 3
+  },
+  {
+    "Name": "Stan",
+    "Surname": "Grace",
+    "Rating": 5
+  },
+  {
+    "Name": "Martin",
+    "Surname": "Grey",
+    "Rating": 5
+  },
+  {
+    "Name": "Denny",
+    "Surname": "Rose",
+    "Rating": 4
+  }
+]

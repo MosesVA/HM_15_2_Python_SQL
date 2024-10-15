@@ -1,0 +1,182 @@
+[
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Math",
+    "Score": 5
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "History",
+    "Score": 3
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Biology",
+    "Score": 4
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Drawing",
+    "Score": 5
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Geometry",
+    "Score": 3
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Chemistry",
+    "Score": 4
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Literature",
+    "Score": 5
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Geography",
+    "Score": 5
+  },
+  {
+    "StudentName": "GabyMondel",
+    "SubjectName": "Algebra",
+    "Score": 3
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Algebra",
+    "Score": 4
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Geography",
+    "Score": 4
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Literature",
+    "Score": 3
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Chemistry",
+    "Score": 4
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Geometry",
+    "Score": 5
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Drawing",
+    "Score": 3
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Biology",
+    "Score": 5
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "History",
+    "Score": 4
+  },
+  {
+    "StudentName": "IvlevKostya",
+    "SubjectName": "Math",
+    "Score": 3
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Math",
+    "Score": 4
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "History",
+    "Score": 5
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Biology",
+    "Score": 3
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Drawing",
+    "Score": 3
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Geometry",
+    "Score": 5
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Chemistry",
+    "Score": 5
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Literature",
+    "Score": 5
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Geography",
+    "Score": 3
+  },
+  {
+    "StudentName": "MarkJackson",
+    "SubjectName": "Algebra",
+    "Score": 4
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Math",
+    "Score": 4
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Algebra",
+    "Score": 5
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Geography",
+    "Score": 3
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Literature",
+    "Score": 3
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Chemistry",
+    "Score": 5
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Geometry",
+    "Score": 4
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Drawing",
+    "Score": 5
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "Biology",
+    "Score": 3
+  },
+  {
+    "StudentName": "MoiseevVlad",
+    "SubjectName": "History",
+    "Score": 5
+  }
+]
